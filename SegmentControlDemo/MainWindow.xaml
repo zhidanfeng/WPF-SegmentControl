@@ -8,6 +8,6 @@
         Title="MainWindow" Height="350" Width="525"
         Background="#F5F5F5">
     <Grid HorizontalAlignment="Center" VerticalAlignment="Center">
-        <local:SegmentControl x:Name="segmentControl" Background="Tan" />
+        <local:SegmentControl x:Name="segmentControl" />
     </Grid>
 </Window>
